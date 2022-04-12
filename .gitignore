@@ -1,0 +1,12 @@
+.DS_Store
+.dart_tool/
+
+.packages
+pubspec.lock
+.pub/
+
+build/
+doc/api
+/example/ios/Flutter/Debug.xcconfig
+/example/ios/Podfile
+/example/ios/Flutter/Release.xcconfig
